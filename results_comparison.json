@@ -1,0 +1,124 @@
+{
+  "RL": {
+    "metrics": {
+      "unique%": 47.4,
+      "bigrams%": 83.2,
+      "entropy": 7.09,
+      "avg_len": 58.7,
+      "avg_gen_s": 1.07
+    },
+    "generations": [
+      {
+        "prompt": "La signification de la vie est",
+        "gen": "Une présentation détaillée du festival de la culture française est en train de faire une nouvelle édition du festival du monde des arts. En effet, le public est proposé à partir de Paris, la bibliothèque et l'exposition à la Bibliothèque de Paris, en partenariat avec le Musée national de l'Europe.",
+        "time": 5.500858783721924
+      },
+      {
+        "prompt": "Il était une fois",
+        "gen": "La grande famille ou la mandie se cache à la fois que l'on a bien eu la chance de s'y retrouver. A l'heure, mes parents se déguisent, et il faisait sa bonne humeur. C'est un travail d'amour. C'est",
+        "time": 0.5684304237365723
+      },
+      {
+        "prompt": "Le chat est assis sur",
+        "gen": "Une petite nouvelle édition de la revue des expositions, publiée dans le cadre du magazine Gaëls. le titre est simple pour un album original. D'ailleurs, la légende que le personnage du chanteur est désormais un vrai œil, sa vie intérieure et le film. C'est la seule fois",
+        "time": 0.5714073181152344
+      },
+      {
+        "prompt": "Bonjour tout le monde",
+        "gen": "Comment vous avez décidé d'aller manger en famille dans le domaine du sport des enfants ? En plus, vous avez d'autres personnes de vos parents pour vous aider. Nous savons beaucoup de temps à votre arrivée. Les enfants savent mieux pour l'équipe de soins palliatifs. Vous pouvez y accéder",
+        "time": 0.5560097694396973
+      },
+      {
+        "prompt": "L'intelligence artificielle",
+        "gen": "Les étudiants ont annoncé cet objectif d'améliorer la qualité du sport du secteur industriel. Les chercheurs ont étudié la stratégie de partenariat avec le marché de l'industrie et de l'innovation dans le secteur de l'innovation. Il s'agit d'un projet de développement dédié à la transition",
+        "time": 0.566819429397583
+      },
+      {
+        "prompt": "La science est importante car",
+        "gen": "Les chiffres de l'UE du Québec ont annoncé l'introduction d'un nouveau rapport en faveur du secteur public et l'environnement public des États-Unis. A l'initiative de la Confédération africaine, le ministre d'Industrie (PNO), a annoncé la sortie de sa conférence sur",
+        "time": 0.574700117111206
+      },
+      {
+        "prompt": "Dans un futur lointain",
+        "gen": "Le film est devenu un film musical, le film de l'Opéra de Paris a été mise à jour dans les films, pour l'expression de l'histoire des femmes, des amis, des concerts et des festivals. Depuis le début de la saison 2015 à partir de 2017, il avait pu",
+        "time": 0.5793499946594238
+      },
+      {
+        "prompt": "Les enfants jouent dans le jardin",
+        "gen": "Le jeudi 16 avril, le conseil au Collège de Créteil de Paris, les élèves du Centre de Formation et de l'Ecole Nationale Régional de l'Ingénieur Interculturelle de l'association La Fondation de Saint-Sénère à Paris et le Centre de l'Opéra. Elle organise",
+        "time": 0.5849769115447998
+      },
+      {
+        "prompt": "La musique est un art qui",
+        "gen": "Pour ce faire, j'ai toujours trouvé un nouvel opus, nous allons dire que certaines personnes sont déjà publiées. Je suis en train de publier le titre de site, d'autres contenus dans son blog, Facebook ou Facebook. Il est possible de découvrir le site sur le web. J'",
+        "time": 0.5840749740600586
+      },
+      {
+        "prompt": "Mon meilleur souvenir est",
+        "gen": "Après avoir vu les premières informations de cette dernière édition, la Cypto, la Fédération des Amis de la République a décidé de comprendre le rôle de ses membres de l'Union européenne, lors de l'Assemblée Générale pour l'Administration. La commission de la paix a été portée à",
+        "time": 0.5769367218017578
+      }
+    ]
+  },
+  "LeCarnet": {
+    "metrics": {
+      "unique%": 41.2,
+      "bigrams%": 77.3,
+      "entropy": 7.13,
+      "avg_len": 59.7,
+      "avg_gen_s": 0.58
+    },
+    "generations": [
+      {
+        "prompt": "La signification de la vie est",
+        "gen": "-là et qu'ils sont différents pour lui. Il apprit que l'apparence et le courage peuvent transformer de belles surprises. Lulu décida de partir à l'aventure. Il était une fois, dans un petit village, un garçon nommé Lucas. Lucas aimait jouer dehors et rêvait de",
+        "time": 0.5984923839569092
+      },
+      {
+        "prompt": "Il était une fois",
+        "gen": "petite souris nommé Lili. Lili vivait dans un joli jardin rempli de beaux légumes. Lili était très contente et décida de partager sa découverte avec ses amis. Cette aventure nous apprend aussi que partager et partager avec les autres. Il était une fois un petit lapin nommé Lili. Lili adorait décorer sa maison avec",
+        "time": 0.5620112419128418
+      },
+      {
+        "prompt": "Le chat est assis sur",
+        "gen": "a un morse en sortit. Le requin était très heureux. Il décida de demander à son ami le hérisson pour le remercier de l'aider. Le renard avait un problème : un gros renard, nommé Max, voulait aussi la souris. Il dit à Nico que la maman lui expliqua",
+        "time": 0.571587324142456
+      },
+      {
+        "prompt": "Bonjour tout le monde",
+        "gen": "ia ? « Je suis un poisson, je vais te montrer un endroit magique ! » Bubulle se sentit très heureux et prêt à l'aide. Il organisa un grand sac à dos pour le remercier d'un grand requin. Le poisson était magnifique et il voulait revenir à l'",
+        "time": 0.5673060417175293
+      },
+      {
+        "prompt": "L'intelligence artificielle",
+        "gen": "voulait pas que le trésor, c'était un trésor caché qui rendrait celui qu'on voulait. Lulu décida de le garder pour lui faire un festin si grand. Mais le renard se rendit compte qu'il était égoïste et qu'il devait le faire pour Lulu. Lulu eut",
+        "time": 0.569460391998291
+      },
+      {
+        "prompt": "La science est importante car",
+        "gen": "les choses la plus brillantes peuvent cacher un endroit merveilleux. Il était une fois un petit lapin nommé Lulu. Lulu adorait jouer dans la forêt, mais un jour, il trouva une vieille armoire en bois. Il décida de l'ouvrir. Derrière la porte, il découvrit une boîte mystérieuse",
+        "time": 0.5865561962127686
+      },
+      {
+        "prompt": "Dans un futur lointain",
+        "gen": "trouva un trésor brillant. Il décida de le garder pour voir ce qu'il y avait à l'intérieur. À sa grande surprise, il trouva une petite clé dorée. La clé était magique et Lulu se demanda ce qu'il contenait. La clé contenait une serrure dorée. Lulu décida",
+        "time": 0.5717198848724365
+      },
+      {
+        "prompt": "Les enfants jouent dans le jardin",
+        "gen": "-mêmes et les fleurs. Un jour, ils décidèrent de planter les graines autour de la plante. Elles décidèrent de planter un grand jardin avec des fleurs et des légumes. Le jardin était rempli de fruits délicieux, et tous les enfants du village vinrent voir ce qu'ils avaient trouvé. Ils travaill",
+        "time": 0.5806963443756104
+      },
+      {
+        "prompt": "La musique est un art qui",
+        "gen": "rendait tout le monde heureux. Mais soudain, un vent glaçant se leva. C'était un élément annonciateur de quelque chose d'étrange. Le ciel devenait de plus en plus sombre. Les gouttes de pluie commencèrent à tomber, et les éclairs s'envola autour de",
+        "time": 0.581514835357666
+      },
+      {
+        "prompt": "Mon meilleur souvenir est",
+        "gen": "pas des bonbons, et il peut jouer avec son nouveau jouet ! Il était une fois un petit lapin nommé Lulu. Lulu aimait beaucoup jouer dans le jardin. Un jour, il trouva une vieille boîte cachée sous un arbre. Il décida de l'ouvrir et découvrit des pages. En chemin",
+        "time": 0.5703036785125732
+      }
+    ]
+  }
+}

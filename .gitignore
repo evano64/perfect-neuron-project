@@ -1,0 +1,30 @@
+# Model checkpoints
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Datasets
+*.npy
+
+# Tokenizer cache
+camembert_tokenizer.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Training logs (regenerable)
+training_status_*.json
+
+# Old experiments (archived locally only)
+ancien/
+
+# Training output directories
+results_*/
+download_ff*.log
+
+# OS
+.DS_Store
+Thumbs.db

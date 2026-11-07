@@ -1,0 +1,4 @@
+Model loaded: step 8000, loss 5.4834
+  comp 1: Les bienfaits de la vie sont des enfants, des enfants et des adolescents. La mei
+  comp 2: Établie sa musique sur les écrans. Le contenu d'un film est sorti dans le monde 
+OK - model generates correctly

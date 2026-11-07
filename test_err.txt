@@ -1,0 +1,4 @@
+C:\Users\User\.gemini\antigravity\scratch\perfect_neuron_project\_test_gen.py:58: UserWarning: Flash Efficient attention on Current AMD GPU is still experimental. Enable it with TORCH_ROCM_AOTRITON_ENABLE_EXPERIMENTAL=1. (Triggered internally at C:/b/pytorch/aten/src/ATen/native/transformers/hip/sdp_utils.cpp:310.)
+  a=F.scaled_dot_product_attention(q.permute(0,2,1,3),k.permute(0,2,1,3),v.permute(0,2,1,3),dropout_p=0.0,is_causal=True)
+C:\Users\User\.gemini\antigravity\scratch\perfect_neuron_project\_test_gen.py:58: UserWarning: Mem Efficient attention on Current AMD GPU is still experimental. Enable it with TORCH_ROCM_AOTRITON_ENABLE_EXPERIMENTAL=1. (Triggered internally at C:/b/pytorch/aten/src/ATen/native/transformers/hip/sdp_utils.cpp:361.)
+  a=F.scaled_dot_product_attention(q.permute(0,2,1,3),k.permute(0,2,1,3),v.permute(0,2,1,3),dropout_p=0.0,is_causal=True)
